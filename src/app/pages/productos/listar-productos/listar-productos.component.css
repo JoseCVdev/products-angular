@@ -1,0 +1,32 @@
+.contenedor_productos{
+    padding: 50px
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+table {
+    width: 100%;
+}
+
+.icon_actions mat-icon{
+    cursor: pointer;
+}
+
+.content_body{
+    padding: 30px;
+}
+
+.table_responsive{
+    width: 100%;
+    overflow-x: auto;
+}
+
+th.mat-header-cell,
+td.mat-cell,
+td.mat-footer-cell {
+    padding: 6px 10px 6px 10px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
